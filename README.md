@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @my-key-coder
+- 👋 Hi, I’m @mickey
 - 👀 I’m interested in Machine learning and A.I.
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
