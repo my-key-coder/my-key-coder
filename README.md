@@ -4,7 +4,7 @@
 
 - 📚 Currently learning **Data Analysis** (Python, SQL, Excel)
 - 🤖 Planning to dive into **Artificial Intelligence** & **Machine Learning** soon
-- 💼 Connect with me on [LinkedIn](your-link-here)
+- 💼 Connect with me on [LinkedIn] https://www.linkedin.com/in/mukul-negi-36890627a/
 
 ### 🛠️ Skills & Tools
 
