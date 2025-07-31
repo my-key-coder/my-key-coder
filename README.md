@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @mickey
-- 👀 I’m interested in Machine learning and A.I.
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+## 👋 Hi, I’m @my-key-coder!
 
-<!---
-my-key-coder/my-key-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎓 Student | Aspiring Data Analyst → Future AI/ML Enthusiast
+
+- 📚 Currently learning **Data Analysis** (Python, SQL, Excel)
+- 🤖 Planning to dive into **Artificial Intelligence** & **Machine Learning** soon
+- 💼 Connect with me on [LinkedIn](your-link-here)
+
+### 🛠️ Skills & Tools
+
+- **Languages:** Python, SQL
+- **Tools:** Excel, Jupyter Notebook (and growing!)
+- **Soft Skills:** Problem-solving, curiosity, adaptability
+
+### 🚀 Projects
+
+- Always working on something new! Check out my latest repositories below.
+- Interested in collaborating on data, AI, or automation projects—let’s connect!
+
+### 🌱 Hobbies & Interests
+
+- ♟️ Playing chess
+- 🎬 Watching movies
+- 🧠 Exploring AI, consciousness, and the mysteries of the mind
