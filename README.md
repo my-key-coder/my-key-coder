@@ -9,7 +9,7 @@
 ### 🛠️ Skills & Tools
 
 - **Languages:** Python, SQL
-- **Tools:** Excel, Jupyter Notebook (and growing!)
+- **Tools:** Excel, VS Code, PostegreSQL, GIT (and growing!)
 - **Soft Skills:** Problem-solving, curiosity, adaptability
 
 ### 🚀 Projects
@@ -18,7 +18,6 @@
 - Interested in collaborating on data, AI, or automation projects—let’s connect!
 
 ### 🌱 Hobbies & Interests
-
+- 🧠 Exploring AI, consciousness, and the mysteries of the mind
 - ♟️ Playing chess
 - 🎬 Watching movies
-- 🧠 Exploring AI, consciousness, and the mysteries of the mind
